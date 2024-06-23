@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+<img width="931" alt="retailReadySystemDesignRound" src="https://github.com/abrarfrahman/retailready_ghoul/assets/28537119/2cc53213-a1b1-4c36-a70a-648944182195">
+
+
 ## What This Isn't
 - No backend
 - No database
