@@ -29,7 +29,9 @@ product,category,instruction
 ### Predefined Order Format:
 
 Example Order
+
 Order ID: 1001
+
 Product: LED Light Bulb
 - Category: Light Bulbs
 - Count: 4
@@ -37,6 +39,7 @@ Product: LED Light Bulb
 - Description: Energy-efficient LED light bulbs, pack of 4.
 - Price: $12.99
 - Weight: 1.2 lbs
+
 Product: Tennis Racket
 - Category: Sporting Goods
 - Count: 1
@@ -46,7 +49,9 @@ Product: Tennis Racket
 - Weight: 0.6 lbs
 Pallets:
 - Pallet ID: P001
+
 Products: LED Light Bulb (4), Tennis Racket (1)
+
 *Exceptions (text / img): None*
 
 ## Getting Started
