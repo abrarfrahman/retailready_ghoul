@@ -13,18 +13,11 @@ import { Label } from './ui/label'
 
 const addOnsData = [
   {
-    text: 'PRIME Energy Drink',
-    name: 'Beverages',
-    description: 'Use a strong, leak-proof container. Place absorbent materials around the product inside the carton.',
+    text: 'LED Bike Light Bulb',
+    name: 'light_bulbs',
+    description: 'Wrap each light bulb in bubble wrap or foam. Use dividers inside the carton to prevent bulbs from touching.',
     monthValue: '1',
     yearValue: '10',
-  },
-  {
-    text: 'Abu Garcia Pro Fisherman\'s Rod',
-    name: 'SportingGoods',
-    description: 'Use a long, sturdy box. Add cushioning materials to protect the rod.',
-    monthValue: '2',
-    yearValue: '20',
   },
   {
     text: 'Nike Elite Socks',
@@ -71,11 +64,10 @@ export function StepFour() {
         )
       })}
 
+      <Label>!!Electronics!! Packing: Wrap each electronic item in anti-static bubble wrap. Use foam inserts to secure the items in the carton. Labeling: Include "Fragile" and "Handle with Care" labels.</Label>
+
       <Input id="picture" type="file" />
       <Label htmlFor="picture">Upload a picture to verify</Label>
-
-      <Input id="picture" type="text" />
-      <Label htmlFor="picture">Exceptions for this pallet</Label>
     </>
   )
 }
